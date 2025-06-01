@@ -7,3 +7,4 @@ This repository contains JMeter test plans & reports for performance testing of 
 - **GitHub** installed
 - **Internet Connection** (for running API requests)
 
+## Folder Structure
