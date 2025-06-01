@@ -32,3 +32,8 @@ This repository contains JMeter test plans & reports for performance testing of 
    - Run the following command in your terminal to execute the JMeter test in **non-GUI mode**: ``` jmeter -n -t .\booking.jmx -l .\booking.jtl -e -o Reports ```
 
 #### 📌 Command Breakdown:
+- `-n` → Non-GUI mode (for faster execution)  
+- `-t .\bookingApi_testing.jmx` → Load the test script (`bookingApi_testing.jmx`)  
+- `-l .\bookingApi_testing` → Store results in `bookingApi_testing`  
+- `-e` → Enable HTML report generation  
+- `-o Reports` → Save reports to the `Reports` folder  
