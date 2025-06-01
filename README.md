@@ -45,3 +45,7 @@ This repository contains JMeter test plans & reports for performance testing of 
 booking.
 
 #### Task Overview: 
+This test plan (`booking.jmx`) automates API testing for the **RESTful Booker API**, covering:  
+✔ Authentication  
+✔ Booking creation with **randomized data**  
+✔ Booking search and validation  
