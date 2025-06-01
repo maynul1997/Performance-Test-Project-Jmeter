@@ -5,3 +5,5 @@ This repository contains JMeter test plans & reports for performance testing of 
 - **Apache JMeter** installed (Latest Version Recommended)
 - **Java 8 or later** installed
 - **GitHub** installed
+- **Internet Connection** (for running API requests)
+
