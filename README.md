@@ -15,3 +15,4 @@ This repository contains JMeter test plans & reports for performance testing of 
 ├── README.md                     # This file
 ```
 
+## Instructions to Run Tests
