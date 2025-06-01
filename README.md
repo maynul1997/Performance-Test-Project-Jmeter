@@ -37,3 +37,5 @@ This repository contains JMeter test plans & reports for performance testing of 
 - `-l .\bookingApi_testing` → Store results in `bookingApi_testing`  
 - `-e` → Enable HTML report generation  
 - `-o Reports` → Save reports to the `Reports` folder  
+
+## Reports & Screenshots
