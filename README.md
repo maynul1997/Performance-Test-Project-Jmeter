@@ -18,3 +18,4 @@ This repository contains JMeter test plans & reports for performance testing of 
 ## Instructions to Run Tests
 ### Task 01: Restful Booker API Performance Testing
 1. Open **JMeter**.
+2. Load the **bookingApi_test.jmx** file.
