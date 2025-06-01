@@ -54,4 +54,14 @@ This test plan (`bookingApi_testing.jmx`) automates API testing for the **RESTfu
 #### Test Steps & Configuration: 
 1️⃣ **Set Headers** (Using HTTP Header Manager)  
    - `Accept: */*`  
+2️⃣ **Login & Authentication**  
+   - **Endpoint:** `https://restful-booker.herokuapp.com/auth`  
+   - **Method:** `POST`  
+   - **Request Body:**  
+     ``` json:
+         {
+            "username": "admin",
+            "password": "password123"
+      
+         }
 
