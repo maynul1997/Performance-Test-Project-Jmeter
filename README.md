@@ -95,3 +95,6 @@ Use JSON Extractor to capture `bookingid` for validation.
 
     - **Method:**  
     `GET`
+    
+**Validation:**  
+Ensure the response contains the correct booking details.
