@@ -88,3 +88,5 @@ This test plan (`bookingApi_testing.jmx`) automates API testing for the **RESTfu
 **Extract Booking ID:**  
 Use JSON Extractor to capture `bookingid` for validation.
 
+4️⃣ Search Booking
+
