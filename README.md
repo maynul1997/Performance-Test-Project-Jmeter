@@ -24,3 +24,9 @@ This repository contains JMeter test plans & reports for performance testing of 
    - Ensure **Gaussian Random Timer** (Deviation: 2000ms, Constant Delay: 500ms) is used.
 
 4. Run the test and observe the results.
+
+5. Generate reports:
+   - Load Test (5min, 10min, 20min load steps)
+   - Stress Test (gradually increasing load to find bottleneck)
+   - Generate an **HTML Report** and save it.
+   - Run the following command in your terminal to execute the JMeter test in **non-GUI mode**: ``` jmeter -n -t .\booking.jmx -l .\booking.jtl -e -o Reports ```
