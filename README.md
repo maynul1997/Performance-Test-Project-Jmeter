@@ -8,3 +8,10 @@ This repository contains JMeter test plans & reports for performance testing of 
 - **Internet Connection** (for running API requests)
 
 ## Folder Structure
+```
+.
+├── booking.jmx                  # JMeter test plan for Restful Booker API
+├── booking-api-test-report.xlsx  # Load & stress test reports in Excel format
+├── README.md                     # This file
+```
+
