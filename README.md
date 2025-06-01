@@ -93,3 +93,5 @@ Use JSON Extractor to capture `bookingid` for validation.
     - **Endpoint:**  
     `https://restful-booker.herokuapp.com/booking/<booking_id>`
 
+    - **Method:**  
+    `GET`
