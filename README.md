@@ -64,4 +64,26 @@ This test plan (`bookingApi_testing.jmx`) automates API testing for the **RESTfu
             "password": "password123"
       
          }
+3️⃣ **Create Booking**
+
+   - **Endpoint:**  
+   `https://restful-booker.herokuapp.com/booking`
+   
+   - **Method:**  
+   `POST`
+   
+   **Request Body (Dynamic Data):**  
+   ```json
+{
+   "firstname": "Generate Random FirstName",
+   "lastname": "Generate Random LastName",
+   "totalprice": "Generate random amount",
+   "depositpaid": true,
+   "bookingdates": {
+      "checkin": "2024-01-01",
+      "checkout": "2024-01-02"
+   }
+}
+```
+
 
