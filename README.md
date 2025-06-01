@@ -50,4 +50,8 @@ This test plan (`bookingApi_testing.jmx`) automates API testing for the **RESTfu
 ✔ Booking creation with **randomized data**  
 ✔ Booking search and validation  
 
+
 #### Test Steps & Configuration: 
+1️⃣ **Set Headers** (Using HTTP Header Manager)  
+   - `Accept: */*`  
+
