@@ -38,4 +38,8 @@ This repository contains JMeter test plans & reports for performance testing of 
 - `-e` → Enable HTML report generation  
 - `-o Reports` → Save reports to the `Reports` folder  
 
+
 ## Reports & Screenshots
+**Scenario:**
+120,000 users over a 12-hour period log in, create a booking, and search for the
+booking.
