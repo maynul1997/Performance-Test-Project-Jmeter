@@ -19,3 +19,6 @@ This repository contains JMeter test plans & reports for performance testing of 
 ### Task 01: Restful Booker API Performance Testing
 1. Open **JMeter**.
 2. Load the **bookingApi_test.jmx** file.
+3. Configure test execution:
+   - Set thread count based on your desired user load.
+   - Ensure **Gaussian Random Timer** (Deviation: 2000ms, Constant Delay: 500ms) is used.
