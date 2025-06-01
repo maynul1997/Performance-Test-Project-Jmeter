@@ -22,3 +22,5 @@ This repository contains JMeter test plans & reports for performance testing of 
 3. Configure test execution:
    - Set thread count based on your desired user load.
    - Ensure **Gaussian Random Timer** (Deviation: 2000ms, Constant Delay: 500ms) is used.
+
+4. Run the test and observe the results.
