@@ -106,7 +106,8 @@ Ensure the response contains the correct booking details.
  - 3rd step: 20 min load with 3333 Users ![Screenshot (14)](https://github.com/user-attachments/assets/15837a99-7baf-4bdd-ba2d-2cef5d470f52)
 
 - **Stress Test Statistics from HTML Report**
-  Identified the bottleneck throughput by conducting a stress test.
+  Identified the bottleneck throughput by conducting a stress test. ![423141277-38ca8e62-ba85-45e4-ba64-d7046eb72e12](https://github.com/user-attachments/assets/899e3ddd-5fa9-4d27-bda7-f3c32af0eb7a)
+
 
 
 
