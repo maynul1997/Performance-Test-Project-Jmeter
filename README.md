@@ -101,5 +101,5 @@ Ensure the response contains the correct booking details.
 
 #### Load Test & Stress Test Results
 - **Request Summary**
- - 1st step: 5 min load with 831 Users ![jmeter 1-1](https://tinyurl.com/2clgvmw9)
+ - 1st step: 5 min load with 831 Users ![jmeter 1-1](https://www.awesomescreenshot.com/image/54760822?key=ebbb66f5c8aece227eae94b3c9e02edb)
 
