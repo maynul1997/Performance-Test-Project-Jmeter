@@ -29,7 +29,7 @@ This repository contains JMeter test plans & reports for performance testing of 
    - Load Test (5min, 10min, 20min load steps)
    - Stress Test (gradually increasing load to find bottleneck)
    - Generate an **HTML Report** and save it.
-   - Run the following command in your terminal to execute the JMeter test in **non-GUI mode**: ``` jmeter -n -t .\booking.jmx -l .\booking.jtl -e -o Reports ```
+   - Run the following command in your terminal to execute the JMeter test in **non-GUI mode**: ``` jmeter -n -t .\bookingApi_test.jmx -l .\bookingApi_test.jtl -e -o Reports ```
 
 #### 📌 Command Breakdown:
 - `-n` → Non-GUI mode (for faster execution)  
